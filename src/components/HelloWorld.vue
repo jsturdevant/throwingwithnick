@@ -27,6 +27,8 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <h3>Twitter Feed</h3>
+    <a href="https://twitter.com/intent/tweet?button_hashtag=throwingwithnick&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #throwingwithnick</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </template>
 
